@@ -1,0 +1,250 @@
+
+  [
+    {
+      "id": 1,
+      "image": "../Logo.png",
+      "title": "Master of Engineering (M.Eng) in Electrical Engineering",
+      "duration": "2 years"
+    },
+    {
+      "id": 2,
+      "image": "../Logo.png",
+      "title": "Master of Technology (M.Tech) in Mechanical Engineering",
+      "duration": "2 years"
+    },
+    {
+      "id": 3,
+      "image": "../Logo.png",
+      "title": "Master of Computer Applications (MCA)",
+      "duration": "2 years"
+    },
+    {
+      "id": 4,
+      "image": "../Logo.png",
+      "title": "Master of Engineering (M.Eng) in Civil Engineering",
+      "duration": "2 years"
+    },
+    {
+      "id": 5,
+      "image": "../Logo.png",
+      "title": "Master of Technology (M.Tech) in Artificial Intelligence",
+      "duration": "2 years"
+    },
+    {
+      "id": 6,
+      "image": "../Logo.png",
+      "title": "Master of Technology (M.Tech) in Data Science",
+      "duration": "2 years"
+    },
+    {
+      "id": 7,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Computer Science (Ph.D.-CS)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 8,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Electrical Engineering (Ph.D.-EE)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 9,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Mechanical Engineering (Ph.D.-ME)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 10,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Civil Engineering (Ph.D.-CE)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 11,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Artificial Intelligence (Ph.D.-AI)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 12,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Data Science (Ph.D.-DS)",
+      "duration": "3-5 years"
+    },
+    {
+      "id": 13,
+      "image": "../Logo.png",
+      "title": "Doctor of Philosophy in Information Technology (Ph.D.-IT)",
+      "duration": "3-5 years"
+    },
+    {
+        "id": 14,
+        "image": "../Logo.png",
+        "title": "Master of Technology (M.Tech) in Artificial Intelligence",
+        "duration": "2 years"
+      },
+      {
+        "id": 15,
+        "image": "../Logo.png",
+        "title": "Master of Technology (M.Tech) in Data Science",
+        "duration": "2 years"
+      },
+      {
+        "id": 16,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Computer Science (Ph.D.-CS)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 17,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Electrical Engineering (Ph.D.-EE)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 18,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Mechanical Engineering (Ph.D.-ME)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 19,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Civil Engineering (Ph.D.-CE)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 20,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Artificial Intelligence (Ph.D.-AI)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 21,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Data Science (Ph.D.-DS)",
+        "duration": "3-5 years"
+      },
+      {
+        "id": 22,
+        "image": "../Logo.png",
+        "title": "Doctor of Philosophy in Information Technology (Ph.D.-IT)",
+        "duration": "3-5 years"
+      },
+      
+        {
+          "id": 23,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Cloud Computing (BSc Cloud Computing)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 24,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Game Development (BSc GD)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 25,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Robotics (BSc Robotics)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 26,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Biotechnology (BSc Biotechnology)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 27,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Environmental Science (BSc ES)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 28,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Science in Marine Biology (BSc Marine Biology)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 29,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Arts in Philosophy (BA Philosophy)",
+          "duration": "3 OR 4 years"
+        },
+        {
+          "id": 30,
+          "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+          "title": "Bachelor of Arts in Sociology and Anthropology (BA Sociology & Anthropology)",
+          "duration": "3 OR 4 years"
+        },
+        
+            {
+              "id": 31,
+              "image": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Arts in Economics (BA Economics)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 32,
+              "image": "https://images.unsplash.com/photo-1532587111189-67078f59289f?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Science in Mechanical Engineering (B.Sc-ME)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 33,
+              "image": "https://images.unsplash.com/photo-1580766710196-6a1048e4f3b0?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+              "title": "Bachelor of Science in Civil Engineering (B.Sc-CE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 34,
+              "image": "https://images.unsplash.com/photo-1586888750992-8ed56b578f4d?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1076&q=80",
+              "title": "Bachelor of Science in Electrical Engineering (B.Sc-EE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 35,
+              "image": "https://images.unsplash.com/photo-1562866032-c33c99b5170b?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+              "title": "Bachelor of Science in Chemical Engineering (B.Sc-ChemE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 36,
+              "image": "https://images.unsplash.com/photo-1580910445289-0105c6801b67?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Science in Aerospace Engineering (B.Sc-AeroE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 37,
+              "image": "https://images.unsplash.com/photo-1581091308599-78025620c0ae?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Science in Industrial Engineering (B.Sc-IndE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 38,
+              "image": "https://images.unsplash.com/photo-1548123564-b3d0b4788d6f?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Science in Environmental Engineering (B.Sc-EnvE)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 39,
+              "image": "https://images.unsplash.com/photo-1500576870612-5a7322a47a50?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1076&q=80",
+              "title": "Bachelor of Science in Computer Science (B.Sc-CS)",
+              "duration": "3 OR 4 years"
+            },
+            {
+              "id": 40,
+              "image": "https://images.unsplash.com/photo-1556151073-d5bb0b7d22cf?ixid=MnwzMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+              "title": "Bachelor of Science in Information Technology (B.Sc-IT)",
+              "duration": "3 OR 4 years"
+            }
+          ]
+          
+      
+  
+  
+    

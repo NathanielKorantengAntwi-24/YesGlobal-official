@@ -1,0 +1,45 @@
+
+.gg {
+    background-color: rgb(169, 186, 175);
+    padding: 5rem;
+    
+}
+
+.gg>div>h4 {
+    color: rgb(37, 20, 20);
+    padding: 5px;
+    text-align:auto;
+    padding-left: 10px;
+}
+
+.gg>div>ul>li>a {
+    color: whitesmoke;
+    font-weight: lighter;
+    text-decoration: none;
+    
+}
+
+.gg>div>ul {
+    list-style: none;
+    padding: 5px;
+    line-height: 40px;
+    text-align: auto;
+}
+
+.gg>div>h5 {
+    color: white;
+    
+}
+@media only screen and (max-width: 600px) {
+  
+        .gg>div>ul{
+        text-align: center;
+        }
+        .gg>div>h4{
+        text-align: center;
+        }
+
+                
+    
+}
+

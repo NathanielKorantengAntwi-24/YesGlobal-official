@@ -1,0 +1,111 @@
+
+/* General Styles */
+.Ab {
+    text-align: center;
+    margin-top: 6rem;
+    background-color: #282c34;
+    padding-top: 2rem;
+  }
+
+  .BBc {
+    background-color: #282c34;
+  }
+  
+  .Ab-header {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  h3 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: wheat;
+  }
+  
+  /* Content Styling */
+  .contento {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .staffo{
+    padding: 2px;
+    background-color: #282c34;
+  }
+  .staffo > h3{
+    color: rgb(12, 12, 12);
+    font-size: 2rem;
+  }
+
+  /* Section Styling */
+  .sectiono {
+    background-color: #61dafb;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    box-sizing: border-box;
+    margin: 10px;
+  }
+  
+  h4 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  /* Responsive Styles for Smaller Screens */
+  @media (max-width: 768px) {
+    .Ab-header {
+      padding: 15px;
+      
+    }
+  
+    .contento {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+    .sectiono {
+      width: 90%; /* Make sections wider on smaller screens */
+    }
+  
+    h3 {
+      font-size: 2rem;
+    }
+  
+    h4 {
+      font-size: 1.3rem;
+    }
+  
+    p {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .Ab-header {
+      padding: 10px;
+    }
+  
+    h3 {
+      font-size: 1.8rem;
+    }
+  
+    h4 {
+      font-size: 1.2rem;
+    }
+  
+    p {
+      font-size: 0.85rem;
+    }
+  }
+  

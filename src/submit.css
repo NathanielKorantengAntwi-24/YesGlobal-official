@@ -1,0 +1,9 @@
+.btn1{
+
+    background: var(--clr-primary-10);
+    color: red;
+    border-radius: var(--radius);
+    border-color: transparent;
+    cursor: pointer;
+    
+}
